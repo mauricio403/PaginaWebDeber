@@ -157,3 +157,4 @@ C:\Users\User\Desktop\PaginaWebDeber\PaginaWebDeber\WebCreditos\WebCreditosDeber
 C:\Users\User\Desktop\PaginaWebDeber\PaginaWebDeber\WebCreditos\WebCreditosDeber\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\User\Desktop\PaginaWebDeber\PaginaWebDeber\WebCreditos\WebCreditosDeber\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\User\Desktop\PaginaWebDeber\PaginaWebDeber\WebCreditos\WebCreditosDeber\obj\Debug\net5.0\Razor\Views\Home\Creditos.cshtml.g.cs
+C:\Users\User\Desktop\PaginaWebDeber\PaginaWebDeber\WebCreditos\WebCreditosDeber\obj\Debug\net5.0\Razor\Views\Home\ImagenMueve.cshtml.g.cs

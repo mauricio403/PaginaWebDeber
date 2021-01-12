@@ -38,5 +38,9 @@ namespace WebCreditosDeber.Controllers
         {
             return View();
         }
+        public IActionResult ImagenMueve()
+        {
+            return View();
+        }
     }
 }
